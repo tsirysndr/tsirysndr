@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tsiry Sandratraina</h1>
 <h3 align="center">A passionate developer from Madagascar</h3>
 
+![](./header.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 
 - 🌱 I’m currently learning **CosmWasm, Parity Substrate**
