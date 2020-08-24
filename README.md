@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tsiry Sandratraina</h1>
 <h3 align="center">A passionate developer from Madagascar</h3>
 
-![](./header.png)
+![](https://raw.githubusercontent.com/tsirysndr/tsirysndr/master/header.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 
