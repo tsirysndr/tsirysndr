@@ -16,6 +16,7 @@
 <!--img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tsirysndr&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 /-->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tsirysndr&margin-h=15&margin-w=15)](https://github.com/tsirysndr)
   <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tsirysndr&skills=Go,Javascript,Typescript,React&width=820"
 />
