@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 
-- 🌱 I’m currently learning **CosmWasm, Parity Substrate, Blockchain SQL Database**
+- 🌱 I’m currently learning **CosmWasm and Parity Substrate**
 
 - 💬 Ask me about **React, GraphQL, Go, Blockchain**
 
