@@ -23,3 +23,6 @@
   <!--img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tsirysndr&skills=Go,Javascript,Typescript,React&width=820"
 /-->
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tsirysndr&show_icons=true)
