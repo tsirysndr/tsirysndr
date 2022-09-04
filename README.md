@@ -24,6 +24,7 @@
 ![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?logo=slackware&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?logoColor=white)
+![OpenTelemetry Badge](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?logo=elixir&logoColor=white)
 ![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
