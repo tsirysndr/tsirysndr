@@ -16,6 +16,13 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></p><p>
 
+![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?logo=freebsd&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)
+![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?logo=slackware&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?logo=elixir&logoColor=white)
 ![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
@@ -42,6 +49,9 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Polkadot](https://img.shields.io/badge/polkadot-E6007A?logo=polkadot&logoColor=white)
+
 
 <!--img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tsirysndr&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
