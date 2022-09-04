@@ -41,6 +41,7 @@
 ![Planetscale](https://img.shields.io/badge/PlanetScale-000000.svg?logo=PlanetScale&logoColor=white)
 ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white)
 ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?logo=musicbrainz&logoColor=BA478F)
+![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
@@ -50,6 +51,15 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?logo=polkadot&logoColor=white)
+![Railway Badge](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)
+![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
+![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)
+![Chromecast Badge](https://img.shields.io/badge/Chromecast-999?logo=chromecast&logoColor=fff)
+![Kodi Badge](https://img.shields.io/badge/Kodi-17B2E7?logo=kodi&logoColor=fff)
+![AirPlay Audio Badge](https://img.shields.io/badge/AirPlay%20Audio-000?logo=airplayaudio&logoColor=fff)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff)
 
 
 <!--img
