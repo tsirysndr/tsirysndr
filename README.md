@@ -38,6 +38,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
+![Planetscale](https://img.shields.io/badge/PlanetScale-000000.svg?logo=PlanetScale&logoColor=white)
 ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white)
 ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?logo=musicbrainz&logoColor=BA478F)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
