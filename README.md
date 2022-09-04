@@ -26,6 +26,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?logo=freebsd&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)
 ![NetBSD Badge](https://img.shields.io/badge/NetBSD-F60?logo=netbsd&logoColor=fff)
 ![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?logo=slackware&logoColor=white)
