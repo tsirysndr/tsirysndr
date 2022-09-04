@@ -6,6 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1ETN14)
+
+
 - 🌱 I’m currently learning **CosmWasm and Parity Substrate**
 
 - 💬 Ask me about **React, GraphQL, Go, Blockchain**
