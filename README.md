@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.giphy.com/media/97e6IX0kayYTK/giphy.webp" />
+<img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Tsiry Sandratraina</h1>
 <h3 align="center">A passionate developer from Madagascar</h3>
