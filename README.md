@@ -86,9 +86,9 @@
 
 <div style="display: flex; flex-direction: row;">
 <a href="https://www.githubtrends.io/wrapped/tsirysndr">
-<img src="https://api.githubtrends.io/user/svg/tsirysndr/langs?time_range=one_year&theme=synthwaves" />
+<img src="https://api.githubtrends.io/user/svg/tsirysndr/langs?time_range=one_year&theme=ferns" />
 </a>
 <a href="https://www.githubtrends.io/wrapped/tsirysndr" >
-<img src="https://api.githubtrends.io/user/svg/tsirysndr/repos?time_range=one_year&theme=synthwaves" />
+<img src="https://api.githubtrends.io/user/svg/tsirysndr/repos?time_range=one_year&theme=ferns" />
 </a>
 </div>
