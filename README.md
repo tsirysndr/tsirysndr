@@ -84,3 +84,11 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tsirysndr&skills=Go,Javascript,Typescript,React&width=820"
 /-->
 
+<div style="display: flex; flex-direction: row;">
+<a href="https://www.githubtrends.io/wrapped/tsirysndr">
+<img src="https://api.githubtrends.io/user/svg/tsirysndr/langs?time_range=one_year&theme=synthwaves" />
+</a>
+<a href="https://www.githubtrends.io/wrapped/tsirysndr" >
+<img src="https://api.githubtrends.io/user/svg/tsirysndr/repos?time_range=one_year&theme=synthwaves" />
+</a>
+</div>
