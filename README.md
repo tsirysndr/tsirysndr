@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **CosmWasm and Parity Substrate**
 
-- 💬 Ask me about **React, GraphQL, Go, Blockchain**
+- 💬 Ask me about **React, GraphQL, Rust, Go, Blockchain**
 
 - 📫 How to reach me **tsiry.sndr@aol.com**
 
