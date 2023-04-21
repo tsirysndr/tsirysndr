@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **CosmWasm and Parity Substrate**
+- 🌱 I’m currently building [**Music Player**](https://github.com/tsirysndr/music-player) (An extensible music server written in Rust 🚀🎵✨)
 
 - 💬 Ask me about **React, GraphQL, Rust, Go, Blockchain**
 
