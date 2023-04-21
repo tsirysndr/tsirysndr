@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently building [**Music Player**](https://github.com/tsirysndr/music-player) (An extensible music server written in Rust 🚀🎵✨)
+- 🌱 I’m currently building [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨ 
 
 - 💬 Ask me about **React, GraphQL, Rust, Go, Blockchain**
 
