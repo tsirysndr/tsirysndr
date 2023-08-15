@@ -19,6 +19,7 @@
 - 🌱 I’m currently building :
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨ 
     - [**Fluent CI**](https://github.com/fluent-ci-templates) | Reusable CI/CD Pipelines in TypeScript (No YAML) 🛠️ 💻 🚀✨
+    - [**Crosup**](https://github.com/tsirysndr/crosup) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 ✨
 
 - 💬 Ask me about **React, GraphQL, Rust, Go, Blockchain**
 
