@@ -1,4 +1,5 @@
-[![@tsiry's Holopin board](https://holopin.io/api/user/board?user=tsiry)](https://holopin.io/@tsiry)
+<!--[![@tsiry's Holopin board](https://holopin.io/api/user/board?user=tsiry)](https://holopin.io/@tsiry)-->
+<img src="https://cdn.jsdelivr.net/gh/fluent-ci-templates/.github@main/assets/images/space_scene_space_landmarks_cartoon_style_--ar_169_43d35fd5-64f8-43f9-82e0-a208a3a7e1a3_2.png" />
 <p align="center">
 <!--img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /-->
 </p>
