@@ -25,7 +25,7 @@
     - [**EnvHub**](https://github.com/tsirysndr/envhub) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
     - [**Crosup**](https://github.com/tsirysndr/crosup) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
 
-- 💬 Ask me about **React, GraphQL, Rust, Go, Blockchain**
+- 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go, Blockchain**
 
 - 📫 How to reach me **tsiry.sndr@fluentci.io**
 
