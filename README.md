@@ -6,12 +6,6 @@
 <h1 align="center">Hi 👋, I'm Tsiry Sandratraina 🇲🇬</h1>
 <h3 align="center">I love to simplify and create user-friendly tools.</h3>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tsiry">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40" />
-  </a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 
 
