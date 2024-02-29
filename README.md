@@ -18,6 +18,7 @@
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | Manage your development environment with ease ✨
     - [**EnvHub**](https://github.com/tsirysndr/envhub) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
     - [**Crosup**](https://github.com/tsirysndr/crosup) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
+    - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 
 - 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go, Blockchain**
 
