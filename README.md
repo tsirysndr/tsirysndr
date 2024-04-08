@@ -21,7 +21,7 @@
     - [**Crosup**](https://github.com/tsirysndr/crosup) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
     - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 
-- 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go, Blockchain**
+- 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go**
 
 - 📫 How to reach me **tsiry.sndr@fluentci.io**
 
