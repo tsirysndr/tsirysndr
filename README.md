@@ -124,6 +124,8 @@
   </picture>
 </a>    
 </div>
-
-
+<div style="display: flex; flex-direction: row;">
+    <img src="https://stats.quine.sh/tsirysndr/topics-over-time?theme=dark" width="500" height="auto"/>
+    <img src="https://stats.quine.sh/tsirysndr/languages-over-time?theme=dark" width="500" height="auto"/>
+</div>
 
