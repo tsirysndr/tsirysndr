@@ -113,14 +113,14 @@
 <div style="display: flex; flex-direction: row;">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=15877106" target="_blank" style="display: block;" >
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=15877106&image_size=auto&color_scheme=dark" width="500" height="auto">
-    <img alt="Dashboard stats of @tsirysndr" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=15877106&image_size=auto&color_scheme=light" width="500" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=15877106&image_size=auto&color_scheme=dark" width="400" height="auto">
+    <img alt="Dashboard stats of @tsirysndr" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=15877106&image_size=auto&color_scheme=light" width="400" height="auto">
   </picture>
 </a>
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=15877106&activity_type=all" target="_blank" style="display: block">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=15877106&activity_type=all&image_size=auto&color_scheme=dark" width="500" height="auto">
-    <img alt="@tsirysndr's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=15877106&activity_type=all&image_size=auto&color_scheme=light" width="500" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=15877106&activity_type=all&image_size=auto&color_scheme=dark" width="400" height="auto">
+    <img alt="@tsirysndr's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=15877106&activity_type=all&image_size=auto&color_scheme=light" width="400" height="auto">
   </picture>
 </a>    
 </div>
