@@ -13,8 +13,8 @@
 
 - 🌱 I’m currently building :
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨ 
-    - [**Fluent CI**](https://github.com/fluent-ci-templates) | Reusable & Portable CI/CD Pipelines in TypeScript (No YAML) 🛠️ 💻 🚀✨
-    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) | A Programmable CI/CD Engine built on top of Nix ❄️ ✨
+    - [**Fluent CI**](https://github.com/fluent-ci-templates) | Reusable & Portable CI/CD Pipelines in TypeScript / Wasm (No YAML) 🛠️ 💻 🚀✨
+    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
     - [**Daggerverse**](https://github.com/tsirysndr/daggerverse) | My Collection of [Dagger](https://dagger.io) Modules 💻 📦✨🪐 🌌
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | Manage your development environment with ease ✨
     - [**EnvHub**](https://github.com/tsirysndr/envhub) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
