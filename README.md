@@ -80,6 +80,7 @@
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff)
 
+<a href="https://gitroll.io/profile/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" alt="GitRoll Profile Badge"/></a>
 
 <!--img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tsirysndr&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
