@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently building :
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨ 
-    - [**Fluent CI**](https://github.com/fluent-ci-templates) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
+    - [**Fluent CI**](https://github.com/fluentci-io) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
     - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
     - [**My Daggerverse**](https://github.com/tsirysndr/daggerverse) | My Collection of [Dagger](https://dagger.io) Modules 💻 📦✨🪐 🌌
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | Manage your development environment with ease ✨
