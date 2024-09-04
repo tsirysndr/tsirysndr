@@ -13,7 +13,8 @@
 
 
 - 🌱 I’m currently building :
-    - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨ 
+    - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨
+    - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) | [Rockbox](https://rockbox.org) with the build system replaced by Zig ⚡
     - [**Fluent CI**](https://github.com/fluentci-io) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
     - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
     - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
