@@ -6,6 +6,15 @@
 </p>
 <h1 align="center">Hi 👋, I'm Tsiry Sandratraina 🇲🇬</h1>
 <h3 align="center">I love to simplify and create user-friendly tools.</h3>
+<br />
+<p align="center">
+<a href="https://gitquest.dev/player/tsirysndr" target="_blank">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitquest.dev/api/badges?type=ranking&rank=2&theme=dark">
+    <img src="https://gitquest.dev/api/badges?type=ranking&rank=2&theme=light" style="border-radius: 11px;" alt="GitQuest Badge"></a>
+</picture>
+</p>
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 
