@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently building :
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨
-    - [**Rocksky**](https://rocksky.app) A decentralized music tracking and discovery platform built on the AT Protocol
+    - [**Rocksky**](https://rocksky.app) A decentralized music tracking and discovery platform built on the [AT Protocol](https://atproto.com/)
     - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) | This project brings modern enhancements to the classic [Rockbox](https://www.rockbox.org) firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
     - [**Fluent CI**](https://github.com/fluentci-io) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
     - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
