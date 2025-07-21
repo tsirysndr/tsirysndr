@@ -28,15 +28,15 @@
 - 🌱 I’m currently building :
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨
     - [**Rocksky**](https://rocksky.app) A decentralized music tracking and discovery platform built on the [AT Protocol](https://atproto.com/)
-    - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) | This project brings modern enhancements to the classic [Rockbox](https://www.rockbox.org) firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
-    - [**Fluent CI**](https://github.com/fluentci-io) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
-    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
+    - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/rockbox-zig.svg?style=social)  | This project brings modern enhancements to the classic [Rockbox](https://www.rockbox.org) firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
+    - [**Fluent CI**](https://github.com/fluentci-io) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci.svg?style=social) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
+    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci-engine.svg?style=social) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
     - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
     - [**My Daggerverse**](https://github.com/tsirysndr/daggerverse) | My Collection of [Dagger](https://dagger.io) Modules 💻 📦✨🪐 🌌
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | Manage your development environment with ease ✨
-    - [**EnvHub**](https://github.com/tsirysndr/envhub) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
-    - [**Crosup**](https://github.com/tsirysndr/crosup) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
-    - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
+    - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
+    - [**Crosup**](https://github.com/tsirysndr/crosup) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/crosup.svg?style=social) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
+    - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli.svg?style=social) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 
 - 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go**
 
