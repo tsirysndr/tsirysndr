@@ -5,7 +5,7 @@
 <!--img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /-->
 </p>
 <h1 align="center">Hi 👋, I'm Tsiry Sandratraina 🇲🇬</h1>
-<h3 align="center">I love to simplify and create user-friendly tools.</h3>
+<h3 align="center">I love simplifying and creating user-friendly tools.</h3>
 <br />
 <p align="center">
 <a href="https://gitquest.dev/player/tsirysndr" target="_blank">
