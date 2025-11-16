@@ -28,6 +28,7 @@
 - 🌱 I’m currently building :
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨
     - [**Rocksky**](https://tangled.org/@rocksky.app/rocksky) A decentralized music tracking and discovery platform built on the [AT Protocol](https://atproto.com/)
+    - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli.svg?style=social) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
     - [**vmlinux-builder**](https://github.com/tsirysndr/vmlinux-builder) Simple script and config to build custom Linux kernels for Firecracker MicroVMs
     - [**Oh My Droid**](https://github.com/tsirysndr/oh-my-droid) Opinionated Android 15+ Linux Terminal Setup
     - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/rockbox-zig.svg?style=social)  | This project brings modern enhancements to the classic [Rockbox](https://www.rockbox.org) firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
@@ -38,7 +39,6 @@
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | Manage your development environment with ease ✨
     - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
     - [**Crosup**](https://github.com/tsirysndr/crosup) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/crosup.svg?style=social) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
-    - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli.svg?style=social) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 
 - 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go**
 
