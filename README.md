@@ -35,6 +35,8 @@
     - [**Fluent CI**](https://github.com/fluentci-io) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci.svg?style=social) | Set up and run your CI locally or in any CI Provider in a consistent way 🛠️ 💻 🚀✨
     - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci-engine.svg?style=social) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️ ✨
     - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
+    - [**vmx**](https://github.com/tsirysndr/vmx) | A Docker-like CLI and HTTP API for managing headless QEMU VMs
+    - [**freebsd-up**](https://github.com/tsirysndr/freebsd-up) | A simple, zero-configuration script to quickly boot FreeBSD ISO images using QEMU
     - [**My Daggerverse**](https://github.com/tsirysndr/daggerverse) | My Collection of [Dagger](https://dagger.io) Modules 💻 📦✨🪐 🌌
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | Manage your development environment with ease ✨
     - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
