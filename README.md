@@ -103,13 +103,7 @@
 
 <a href="https://gitroll.io/profile/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufOW2J2t2u4N5UC3QYF4fRRMS5yd2" alt="GitRoll Profile Badge"/></a>
 
-<!--img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tsirysndr&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/-->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tsirysndr&margin-h=15&margin-w=15)](https://github.com/tsirysndr)
-  <!--img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tsirysndr&skills=Go,Javascript,Typescript,React&width=820"
-/-->
+[![Tsiry Sandratraina profile views](https://u8views.com/api/v1/github/profiles/15877106/views/day-week-month-total-count.svg)](https://u8views.com/github/tsirysndr)
 
 <div style="display: flex; flex-direction: row;">
 <a href="https://www.githubtrends.io/wrapped/tsirysndr">
