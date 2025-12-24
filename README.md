@@ -105,14 +105,6 @@
 
 [![Tsiry Sandratraina profile views](https://u8views.com/api/v1/github/profiles/15877106/views/day-week-month-total-count.svg)](https://u8views.com/github/tsirysndr)
 
-<div style="display: flex; flex-direction: row;">
-<a href="https://www.githubtrends.io/wrapped/tsirysndr">
-<img src="https://api.githubtrends.io/user/svg/tsirysndr/langs?time_range=one_year&theme=ferns" />
-</a>
-<a href="https://www.githubtrends.io/wrapped/tsirysndr" >
-<img src="https://api.githubtrends.io/user/svg/tsirysndr/repos?time_range=one_year&theme=ferns" />
-</a>
-</div>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
