@@ -19,7 +19,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> 
 
 <a href="https://gitquest.dev/player/tsirysndr" target="_blank">
-<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
 </a>
 </p>
 
