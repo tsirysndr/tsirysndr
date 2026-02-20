@@ -30,7 +30,7 @@
     - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
     - [**vmx**](https://github.com/tsirysndr/vmx) | A Docker-like CLI and HTTP API for managing headless QEMU VMs
     - [**freebsd-up**](https://github.com/tsirysndr/freebsd-up) | A simple, zero-configuration script to quickly boot FreeBSD ISO images using QEMU
-    - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) |open, interoperable sandbox platform for agents and humans 📦 ✨
+    - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | open, interoperable sandbox platform for agents and humans 📦 ✨
     - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code 💻 🚀 ✨
     - [**Crosup**](https://github.com/tsirysndr/crosup) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/crosup.svg?style=social) | Quickly setup your dev environment on your Chromebook/ChromeOS , MacOS or any Linux🐧 ❄️ 💻 ✨
 
