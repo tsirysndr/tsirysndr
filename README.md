@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **Dagger, Deno, React, GraphQL, Rust, Go**
 
-- 📫 How to reach me **tsiry.sndr@fluentci.io**
+- 📫 How to reach me **tsiry.sndr@rocksky.app**
 
 <p align="left">
   <img src="https://framerusercontent.com/images/5ZrliNQsqvL6a035Vwos0K4vxI.png?scale-down-to=512" alt="dagger" width="40" height="40"/>
