@@ -19,10 +19,10 @@
 
 
 - 🌱 I’m currently building :
+    - [**atradio.fm**](https://tangled.org/atradio.fm/atradio) | A social internet radio platform built on AT Protocol.
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust
     - [**Rocksky**](https://tangled.org/@rocksky.app/rocksky) A decentralized music tracking and discovery platform built on [AT Protocol](https://atproto.com/)
     - [**Rockbox Daemon**](https://github.com/tsirysndr/rockboxd) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/rockboxd.svg?style=social)  | A modern, network-enabled music player platform built on [Rockbox](https://www.rockbox.org) technology ⚡ 🦀
-    - [**atradio.fm**](https://tangled.org/atradio.fm/atradio) | A social internet radio platform built on AT Protocol.
     - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli.svg?style=social) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
     - [**vmlinux-builder**](https://github.com/tsirysndr/vmlinux-builder) Simple script and config to build custom Linux kernels for Firecracker MicroVMs
     - [**Oh My Droid**](https://github.com/tsirysndr/oh-my-droid) Opinionated Android 15+ Linux Terminal Setup
