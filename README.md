@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently building :
     - [**Rocksky**](https://tangled.org/@rocksky.app/rocksky) A decentralized music tracking and discovery platform built on [AT Protocol](https://atproto.com/)
-    - [**Citrus Wallet**](https://github.com/tsirysndr/citruswallet) Send ETH to [AT Protocol](https://atproto.com/) handles. Your keys never leave MetaMask.
+    - [**Peachlet Wallet**](https://github.com/tsirysndr/peachlet) Send ETH to [AT Protocol](https://atproto.com/) handles. Your keys never leave MetaMask.
     - [**Rockbox Daemon**](https://github.com/tsirysndr/rockboxd) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/rockboxd.svg?style=social)  | A modern, network-enabled music player platform built on [Rockbox](https://www.rockbox.org) technology ⚡ 🦀
     - [**atradio.fm**](https://tangled.org/atradio.fm/atradio) | A social internet radio platform built on [AT Protocol](https://atproto.com/)
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust
