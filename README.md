@@ -19,7 +19,7 @@
 
 
 - 🌱 I’m currently building :
-    - [**macports-rs**](https://github.com/macports/macports-ports) | A fast, standalone Rust reimplementation of [MacPorts](https://www.macports.org) `port` CLI, with parallel download
+    - [**macports-rs**](https://github.com/tsirysndr/macports-rs) | A fast, standalone Rust reimplementation of [MacPorts](https://www.macports.org) `port` CLI, with parallel download
     - [**Rocksky**](https://tangled.org/@rocksky.app/rocksky) | A decentralized music tracking and discovery platform built on [AT Protocol](https://atproto.com/)
     - [**Rockbox Daemon**](https://github.com/tsirysndr/rockboxd) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/rockboxd.svg?style=social)  | A modern, network-enabled music player platform built on [Rockbox](https://www.rockbox.org) technology ⚡ 🦀
     - [**atradio.fm**](https://tangled.org/atradio.fm/atradio) | A social internet radio platform built on [AT Protocol](https://atproto.com/)
