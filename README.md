@@ -25,13 +25,13 @@
     - [**atradio.fm**](https://tangled.org/atradio.fm/atradio) | A social internet radio platform built on [AT Protocol](https://atproto.com/)
     - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust
     - [**Tunein CLI**](https://github.com/tsirysndr/tunein-cli) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli.svg?style=social) | Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
+    - [**Fluent CI**](https://github.com/fluentci-io) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci.svg?style=social) | Set up and run your CI locally or in any CI Provider in a consistent way
+    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci-engine.svg?style=social) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️
+    - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
     - [**Peachlet Wallet**](https://github.com/tsirysndr/peachlet) Send ETH to [AT Protocol](https://atproto.com/) handles. Your keys never leave MetaMask.
     - [**vmlinux-builder**](https://github.com/tsirysndr/vmlinux-builder) Simple script and config to build custom Linux kernels for Firecracker MicroVMs
     - [**Oh My Droid**](https://github.com/tsirysndr/oh-my-droid) Opinionated Android 15+ Linux Terminal Setup
     - [**Pocketenv**](https://github.com/pocketenv-io/pocketenv) | open, interoperable sandbox platform for agents and humans
-    - [**Fluent CI**](https://github.com/fluentci-io) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci.svg?style=social) | Set up and run your CI locally or in any CI Provider in a consistent way
-    - [**Fluent CI Engine**](https://github.com/fluentci-io/fluentci-engine) ![GitHub stars](https://img.shields.io/github/stars/fluentci-io/fluentci-engine.svg?style=social) | A Programmable CI/CD Engine built on top of Wasm and Nix ❄️
-    - [**Fluent CI Studio**](https://github.com/fluentci-io/fluentci-studio) | 🎙️ The easiest way to explore and manipulate your CI Pipelines in all of your FluentCI projects.
     - [**vmx**](https://github.com/tsirysndr/vmx) | A Docker-like CLI and HTTP API for managing headless QEMU VMs
     - [**freebsd-up**](https://github.com/tsirysndr/freebsd-up) | A simple, zero-configuration script to quickly boot FreeBSD ISO images using QEMU
     - [**EnvHub**](https://github.com/tsirysndr/envhub) ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/envhub.svg?style=social) | Manage your dotfiles and packages with ease. Define your $HOME as Code
